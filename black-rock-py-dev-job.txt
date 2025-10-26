@@ -1,0 +1,80 @@
+Black Rock Python Developer Job  ||   https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4298228065
+
+About the job
+About This Role
+
+Business Unit Overview:
+
+USWA Business delivers BlackRock's full set of capabilities - iShares, alpha-seeking and alternative products, portfolio solutions and technology services - to wealth management firms and financial advisors in the US.
+
+Advisor Engagement group within the USWA Business delivers a broad set of services and client engagement approaches that amplify the work of our client teams. This includes digital client engagement, business consulting, thought leadership, advisor growth programs, and advisor education. The team also works closely with Global Marketing to design an integrated USWA marketing strategy. WEA (Wealth Enablement and Analytics) Engineering team within Advisor Engagement group develops new tools and capabilities which enable Sales, Portfolio Consulting, and other Wealth Distribution partners to self-service their advisor engagements, and drive innovation and scale.
+
+Job Purpose/Background
+
+We are looking for an upbeat professional with hands-on technical experience in the design and development of Python-based micro services. This outstanding opportunity will allow you to apply your expertise in back-end technologies within an exciting and learning environment.
+
+Join a best-in-class development team at BlackRock to craft innovative wealth management solutions. You will be working in our dynamic work environment, where strong problem-solving skills, independent self-direction, and teamwork are essential.
+
+Key Responsibilities
+
+Design, develop, test, and maintain scalable and performant Python micro services.
+Optimize services for maximum speed and scalability.
+Independently deliver major projects and be a key to technical designs.
+Work closely with frontend developers to provide end-to-end solutions.
+Write clean, maintainable, and well-documented code following standard methodologies.
+Implement unit tests and end-to-end tests.
+Perform code reviews and ensure consistency with coding standards.
+Identify and fix performance bottlenecks in Python micro service.
+Build s solutions by bringing to bear the existing BlackRock environment, ensuring multiple points of use.
+Project planning with Agile methodologies, including user stories, sprints, retrospectives, backlog management, and kanban boards.
+Flexibility to learn and work on various programming languages as per project needs
+Mentor and foster team members.
+
+Qualifications
+
+Bachelors or Master’s Degree in Computer Science, Engineering or a related field, or equivalent experience.
+
+Eligibility Criteria
+
+6 to 9 years of professional experience in backend development using Python, preferably in the finance industry.
+Ability to handle core aspects of projects, technical modules, or major components.
+Strong understanding of OOP, design patterns, and software engineering principles.
+Hands on experience with Python web frameworks like Flask or Django.
+Proficiency with relational databases (e.g., Sybase, PostgreSQL, MySQL) and ORMs (e.g., SQL Alchemy, Django ORM).
+Experience with caching layers (e.g., Redis, Memcached) and message brokers (e.g., RabbitMQ, Kafka).
+Knowledge of asynchronous programming and event-driven architectures is desirable.
+Hands-on experience with unit testing, CI/CD, and containerization using Docker.
+Familiarity with cloud platforms like AWS, GCP, or Azure is a strong plus.
+Proficiency with RESTful API design, versioning, and authentication mechanisms (OAuth2, JWT).
+In-depth knowledge of Python programming language, including libraries for data structures and reporting templates.
+Great collaborator with leadership skills and ability to provide clear global communication.
+Proven track record of performance, resulting in highly satisfied business partners.
+Experience working with global project teams across several time zones.
+Flexibility of shift timings.
+
+Desirable
+
+Experience crafting web applications with front-end frameworks like Angular or React.
+Exposure to Microservice and monolithic architectures
+Familiarity with monitoring tools (e.g. Grafana, Splunk)
+Hands-on to Linux based development environment
+
+Our Benefits
+
+To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.
+
+Our hybrid work model
+
+BlackRock’s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments that arise when we work together in person – aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRock.
+
+About BlackRock
+
+At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.
+
+This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.
+
+For additional information on BlackRock, please visit @blackrock | Twitter: @blackrock | LinkedIn: www.linkedin.com/company/blackrock
+
+BlackRock is proud to be an Equal Opportunity Employer. We evaluate qualified applicants without regard to age, disability, family status, gender identity, race, religion, sex, sexual orientation and other protected attributes at law.
+
+
